@@ -18,8 +18,8 @@ import (
 	"github.com/golang/protobuf/proto"
 	plugin "github.com/golang/protobuf/protoc-gen-go/plugin"
 	"github.com/StK88/grpc-gateway/internal/codegenerator"
-	"github.com/grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
-	"github.com/grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway/internal/gengateway"
+	"github.com/StK88/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
+	"github.com/StK88/grpc-gateway/protoc-gen-grpc-gateway/internal/gengateway"
 )
 
 var (
