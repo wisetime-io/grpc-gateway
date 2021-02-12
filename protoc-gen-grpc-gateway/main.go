@@ -17,9 +17,9 @@ import (
 	"github.com/golang/glog"
 	"github.com/golang/protobuf/proto"
 	plugin "github.com/golang/protobuf/protoc-gen-go/plugin"
-	"github.com/StK88/grpc-gateway/internal/codegenerator"
-	"github.com/StK88/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
-	"github.com/StK88/grpc-gateway/protoc-gen-grpc-gateway/internal/gengateway"
+	"github.com/wisetime-io/grpc-gateway/internal/codegenerator"
+	"github.com/wisetime-io/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
+	"github.com/wisetime-io/grpc-gateway/protoc-gen-grpc-gateway/internal/gengateway"
 )
 
 var (

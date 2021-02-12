@@ -9,8 +9,8 @@ import (
 
 	"github.com/golang/glog"
 	generator2 "github.com/golang/protobuf/protoc-gen-go/generator"
-	"github.com/StK88/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
-	"github.com/StK88/grpc-gateway/utilities"
+	"github.com/wisetime-io/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
+	"github.com/wisetime-io/grpc-gateway/utilities"
 )
 
 type param struct {
